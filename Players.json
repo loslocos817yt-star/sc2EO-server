@@ -23,5 +23,9 @@
     "pwd": "Fan nuemero 1 de salamandra",
     "time": 1110
   },
-  "a?/": 210
+  "a?/": 210,
+  "a": {
+    "pwd": "a",
+    "time": 0
+  }
 }
